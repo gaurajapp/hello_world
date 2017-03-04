@@ -1,2 +1,3 @@
 # hello_world
-just a repository
+Hey gauraja here!
+ I m learing web development !
